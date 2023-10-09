@@ -1,6 +1,6 @@
 {
-  "AdsEnable": false,
-  "InterAfterLoading": "ca-app-pub-3940256099942544/1033173712",
-  "InterPerExit": "ca-app-pub-3940256099942544/1033173712",
-  "InterForReset": "ca-app-pub-3940256099942544/1033173712"
+  "AdsEnable": true,
+  "InterAfterLoading": "ca-app-pub-2579746979715995/5935483888",
+  "InterPerExit": "ca-app-pub-2579746979715995/5743912192",
+  "InterForReset": "ca-app-pub-2579746979715995/8178503846"
 }
